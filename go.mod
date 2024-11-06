@@ -1,4 +1,4 @@
-module terraform-provider-github-tag-manager
+module terraform-provider-google-tag-manager
 
 go 1.22.7
 
